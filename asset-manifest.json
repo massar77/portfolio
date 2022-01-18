@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/massar77/portfolio.git/static/css/main.cdcb6631.chunk.css",
+    "main.js": "/massar77/portfolio.git/static/js/main.72cb5f25.chunk.js",
+    "main.js.map": "/massar77/portfolio.git/static/js/main.72cb5f25.chunk.js.map",
+    "runtime-main.js": "/massar77/portfolio.git/static/js/runtime-main.b61a959a.js",
+    "runtime-main.js.map": "/massar77/portfolio.git/static/js/runtime-main.b61a959a.js.map",
+    "static/js/2.8b618d07.chunk.js": "/massar77/portfolio.git/static/js/2.8b618d07.chunk.js",
+    "static/js/2.8b618d07.chunk.js.map": "/massar77/portfolio.git/static/js/2.8b618d07.chunk.js.map",
+    "static/js/3.4c9d3ce3.chunk.js": "/massar77/portfolio.git/static/js/3.4c9d3ce3.chunk.js",
+    "static/js/3.4c9d3ce3.chunk.js.map": "/massar77/portfolio.git/static/js/3.4c9d3ce3.chunk.js.map",
+    "index.html": "/massar77/portfolio.git/index.html",
+    "static/css/main.cdcb6631.chunk.css.map": "/massar77/portfolio.git/static/css/main.cdcb6631.chunk.css.map",
+    "static/js/2.8b618d07.chunk.js.LICENSE.txt": "/massar77/portfolio.git/static/js/2.8b618d07.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/massar77/portfolio.git/static/media/1.95f6d5d4.jpg",
+    "static/media/2.png": "/massar77/portfolio.git/static/media/2.ef20e673.png",
+    "static/media/3.png": "/massar77/portfolio.git/static/media/3.49774223.png",
+    "static/media/5.png": "/massar77/portfolio.git/static/media/5.735648f9.png",
+    "static/media/avatar1.png": "/massar77/portfolio.git/static/media/avatar1.ed7ca0f2.png",
+    "static/media/image.jpg": "/massar77/portfolio.git/static/media/image.228535fe.jpg",
+    "static/media/img.jpg": "/massar77/portfolio.git/static/media/img.6a25409c.jpg",
+    "static/media/logo.6ce24c58.svg": "/massar77/portfolio.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61a959a.js",
+    "static/js/2.8b618d07.chunk.js",
+    "static/css/main.cdcb6631.chunk.css",
+    "static/js/main.72cb5f25.chunk.js"
+  ]
+}
